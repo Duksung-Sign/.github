@@ -1,4 +1,3 @@
-## Hi there 👋
 # Sign Language API Server
 
 ## 프로젝트 개요
