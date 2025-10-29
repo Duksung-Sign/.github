@@ -13,9 +13,8 @@
 
 ## 시스템 아키텍처
 
-- **클라이언트**: Unity 기반의 수어 게임 인터페이스에서 카메라 데이터를 실시간으로 전송합니다.
-- **서버**: FastAPI 서버는 클라이언트로부터 수어 데이터를 받아 예측하고, 그 결과를 반환합니다.
-- **모델**: LSTM 모델 또는 Transformer 기반의 모델을 사용하여 수어를 인식합니다.
+<img width="1285" height="514" alt="image" src="https://github.com/user-attachments/assets/088c7735-e5d8-4073-a383-c649622c9981" />
+
 
 ## 설치 방법
 
